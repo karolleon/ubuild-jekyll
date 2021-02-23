@@ -17,6 +17,5 @@ page_sections:
   block: header-1
   navigation: []
   logo: ''
-published: false
 
 ---
